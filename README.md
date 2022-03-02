@@ -1,3 +1,1 @@
-"# Rotexilva" 
-"# alx-pre_course" 
-"# alx-zero_day" 
+My first readme
